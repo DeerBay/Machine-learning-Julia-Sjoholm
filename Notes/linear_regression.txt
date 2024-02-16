@@ -1,0 +1,6 @@
+Linjär regression
+Kokchun utgår mycket från An introduction to statistical learning, finns som gratis download. 
+Finns också en kurs på YouTube som bygger på boken.
+Simpel linjär regression
+y = beta0 + beta1x1 +  epsilon
+ 
