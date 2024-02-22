@@ -8,6 +8,10 @@ pandas = "*"
 pyarrow = "*"
 seaborn = "*"
 plotly = "*"
+kiwisolver = "*"
+matplotlib = "*"
+ipykernel = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
