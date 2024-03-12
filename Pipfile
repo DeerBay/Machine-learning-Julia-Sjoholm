@@ -4,10 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-seaborn = "*"
-kiwisolver = "*"
+pandas = "*"
 ipykernel = "*"
-joblib = "*"
+scikit-learn = "*"
+matplotlib = "*"
+seaborn = "*"
+pylance = "*"
 
 [dev-packages]
 
